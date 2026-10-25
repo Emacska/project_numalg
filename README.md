@@ -1,2 +1,3 @@
-   # project_numalg
-   Numerical methods semester project: orbital motion simulation.
+   # project_numa
+   Numerical methods project: 
+   II. Orbital motion: 3-body problem
